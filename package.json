@@ -1,0 +1,29 @@
+{
+  "name": "school-mgmt-tutorial",
+  "version": "1.0.0",
+  "description": "A node rest API project for tutorial purposes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maleficent704/schoolmgttutorial.git"
+  },
+  "keywords": [],
+  "author": "Kelly McLaughlin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maleficent704/schoolmgttutorial/issues"
+  },
+  "homepage": "https://github.com/maleficent704/schoolmgttutorial#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
